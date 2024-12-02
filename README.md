@@ -12,12 +12,14 @@ An overview of the pipeline functionality has been published in Díaz-Montiel, A
 Other research initiatives can be found under the projects directory.
 
 ## Support
-For questions please contact Dr. Alan Diaz at: 
+For questions please contact Dr. Milad Lankarany at: 
 
-alan [dot] diaz [at] uhn [dot] ca
+milad [dot] lankarany [at] uhn [dot] ca
 
 ## Authors and acknowledgment
 Dr. Alan A. Díaz Montiel
+
+Richard Zhang
 
 Dr. Milad Lankarany
 
