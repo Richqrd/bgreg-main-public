@@ -1,0 +1,80 @@
+{
+  "umf001":
+    {
+      "seizure_free": 1,
+      "follow_up_years": 4,
+      "contacts": ["BTM1", "BTM2", "BTM3", "BTM4", "BTM5", "BTM6", "BTP1", "BTP2", "BTP3", "BTP4", "BTP5", "BTP6", "C33", "C34", "C41", "C42", "C43", "C49", "C50", "C51", "C52", "C53", "C54", "C55", "C56", "C57", "C58", "C59", "C60", "C61", "C62", "C63", "C64"]
+    },
+  "ummc002":
+    {
+      "seizure_free": 1,
+      "follow_up_years": 4,
+      "contacts": ["ANT1", "ANT2", "ANT3", "MEST1", "MEST2", "MEST3", "MEST4", "ATT1", "ATT2", "ATT3"]
+    },
+  "ummc003":
+    {
+      "seizure_free": 1,
+      "follow_up_years": 1,
+      "contacts": ["MEST3", "MEST4", "MEST5", "G4", "G10", "G12", "G18", "G19", "G20", "G26", "G27", "G28"]
+    },
+  "ummc004":
+    {
+      "seizure_free": 1,
+      "follow_up_years": 4,
+      "contacts": ["AT1", "AT2"]
+    },
+  "ummc005":
+    {
+      "seizure_free": 1,
+      "follow_up_years": 1,
+      "contacts": ["AT1", "AT2", "G17", "G19", "G25", "G27"]
+    },
+  "ummc006":
+    {
+      "seizure_free": 1,
+      "follow_up_years": 4,
+      "contacts": ["MT1", "MT2", "MT3", "MT4", "MEST1", "MEST2", "MEST3", "MEST4", "MEST5"]
+    },
+  "ummc009":
+    {
+      "seizure_free": 1,
+      "follow_up_years": 1,
+      "contacts": ["G4", "G5", "G6", "G7", "G12", "G14", "PT1", "PT2", "PT3", "PT4", "AT1", "AT2", "AT3", "AT4"]
+    },
+  "pt01":
+    {
+      "seizure_free": 1,
+      "follow_up_years": 3,
+      "contacts": ["PD1", "PD2", "PD3", "PD4", "AD1", "AD2", "AD3", "AD4", "ATT1", "ATT2"]
+    },
+  "pt2":
+    {
+      "seizure_free": 1,
+      "follow_up_years": 3,
+      "contacts": ["PST1", "PST2", "PST3", "PST4", "AST1", "AST2", "MST1", "MST2"]
+    },
+  "pt3":
+    {
+      "seizure_free": 1,
+      "follow_up_years": 3,
+      "contacts": ["OF1", "OF2", "OF3", "OF4", "MFP2", "MFP3", "IFP1", "IFP2", "IFP3", "SFP1", "SFP2", "SFP3", "FG1", "FG2", "FG3", "FG4", "FG5", "FG6", "FG7", "FG8", "FG9", "FG10", "FG11", "FG12", "FG13", "FG14", "FG15", "FG16", "FG17", "FG18", "FG19", "FG20", "FG21", "FG22", "FG23", "FG24", "FG25"]
+    },
+  "pt8":
+    {
+      "seizure_free": 1,
+      "follow_up_years": 2,
+      "contacts": ["MST3", "MST4", "TOS5", "TOS6", "G22", "G23", "G29", "G30", "G31", "G19", "G20", "G21", "G28", "PO8", "PO9", "PO10"]
+    },
+  "pt13":
+    {
+      "seizure_free": 1,
+      "follow_up_years": 2,
+      "contacts": ["G1", "G2", "G9", "G10", "G17", "G18"]
+    },
+  "pt16":
+    {
+      "seizure_free": 1,
+      "follow_up_years": 2,
+      "contacts": ["TT1", "TT2", "TT3", "TT4", "TT5", "AST1"]
+    }
+}

@@ -1,0 +1,19 @@
+{
+  "datastore_path": "data_files",
+  "ds003029": "ds003029-data",
+  "ds003029_processed": "ds003029-processed",
+
+  "coh_mat_dir": "coherence-matrices",
+  "coh_mat_dir_whole": "whole",
+  "coh_mat_dir_preictal": "preictal",
+  "coh_mat_dir_ictal": "ictal",
+  "coh_mat_dir_postictal": "postictal",
+  "icn_dir": "intrinsic-coherence-networks",
+  "icn_dir_whole": "whole",
+  "icn_dir_preictal": "preictal",
+  "icn_dir_ictal": "ictal",
+  "icn_dir_postictal": "postictal",
+
+  "preprocessed_data": "preprocessed_data",
+  "graph_representation_elements": "graph_representation_elements 20s adj expanded coherence edge"
+}
